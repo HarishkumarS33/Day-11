@@ -1,3 +1,3 @@
 print("helloworld")
-print("Wellgit come boy")
+print("Wellcome boy")
 print("Asta")
