@@ -1,1 +1,2 @@
-pritn("helloworld")
+print("helloworld")
+print("Black Clover")
